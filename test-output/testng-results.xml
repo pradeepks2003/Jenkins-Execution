@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57225" started-at="2018-10-26T17:29:13Z" finished-at="2018-10-26T17:30:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57225" started-at="2018-10-26T17:29:13Z" finished-at="2018-10-26T17:30:11Z">
+      <class name="FirstTestCase">
+        <test-method status="PASS" signature="TestChrome()[pri:0, instance:FirstTestCase@28d25987]" name="TestChrome" is-config="true" duration-ms="2393" started-at="2018-10-26T17:29:13Z" finished-at="2018-10-26T17:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestFacebook()[pri:0, instance:FirstTestCase@28d25987]" name="TestFacebook" duration-ms="33674" started-at="2018-10-26T17:29:16Z" finished-at="2018-10-26T17:29:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFacebook -->
+        <test-method status="PASS" signature="TestGoogle()[pri:0, instance:FirstTestCase@28d25987]" name="TestGoogle" duration-ms="3715" started-at="2018-10-26T17:29:49Z" finished-at="2018-10-26T17:29:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGoogle -->
+        <test-method status="PASS" signature="TestNPN()[pri:0, instance:FirstTestCase@28d25987]" name="TestNPN" duration-ms="17428" started-at="2018-10-26T17:29:53Z" finished-at="2018-10-26T17:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNPN -->
+      </class> <!-- FirstTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
